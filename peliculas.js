@@ -1,0 +1,1 @@
+let peliculas = ['Lord of rings', 'Fast and furious', 'En busca de la felicidad', 'Bastardos sin gloria'];
